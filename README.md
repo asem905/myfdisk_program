@@ -65,14 +65,6 @@ Defines the structure of a partition entry in the partition table. It contains:
 - **Read Errors**: Errors during reading the file are reported using `perror`.
 - **Seek Errors**: Errors encountered while seeking to a specific LBA are reported using `perror`.
 
-## Author
-
-Assem Samy
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Example
 
 Here’s an example of how the tool might display partition information:
